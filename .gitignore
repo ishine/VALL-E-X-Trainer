@@ -1,0 +1,6 @@
+.git/objects/pack/pack-c489e96424f1ee71e0c94eaadab46ec057581843.pack
+exp/valle_dev/best-train-loss.pt
+exp/valle_dev/checkpoint-10000.pt
+exp/valle_dev/epoch-1.pt
+exp/valle_dev/best-valid-loss.pt
+checkpoints/vallex-checkpoint_modified.pt
